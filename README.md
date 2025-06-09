@@ -8,7 +8,7 @@
 [https://gpa-calculator-k5qe.onrender.com](https://gpa-calculator-k5qe.onrender.com)
 
 👉 If Render doesn't work here is pythonanywhere host:
-[trenor21.pythonanywhere.com](trenor21.pythonanywhere.com)
+[https://trenor21.pythonanywhere.com/](https://trenor21.pythonanywhere.com/)
 
 ## ✨ Features
 
