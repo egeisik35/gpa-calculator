@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 Try the live version hosted on Render:  
+👉 Try the live version hosted on Render:   
 [https://gpa-calculator-k5qe.onrender.com](https://gpa-calculator-k5qe.onrender.com)
 
 👉 If Render doesn't work here is pythonanywhere host:
